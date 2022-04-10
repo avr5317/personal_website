@@ -17,7 +17,7 @@
           I am an <strong>Application Development Associate</strong> in<strong><a href="https://www.accenture.com/in-en"> Accenture</a></strong>.
 
         </p>
-        </p>
+        
       </td>
     </tr>
   </table>
