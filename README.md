@@ -15,9 +15,7 @@
         <p><em> Works in <strong><a href="https://www.accenture.com/in-en"> Accenture</a></strong> as ASE</em> </p>
         <p>
           I am an <strong>Application Development Associate</strong> in<strong><a href="https://www.accenture.com/in-en"> Accenture</a></strong>.
-
         </p>
-        
       </td>
     </tr>
   </table>
@@ -26,10 +24,9 @@
   <p>
   <ul>
     <li>I graduated from <strong><a href="https://www.bnmit.org/">BNMIT</a></strong> , Bengaluru in August 2021 with Electrical and Electronics background.</li>
-    <li>I completed my intermediate PUC in <strong><a href="https://shrignanambicacollege.com/">Gnanambica Junior College</a></strong> , Madanapalle in the year 2017 with Maths,Physics and Chemistry background.</li>
+    <li>I completed my intermediate PUC in <strong><a href="https://shrignanambicacollege.com/">Gnanambica Junior College</a></strong> , Madanapalle in the year           2017 with Maths,Physics and Chemistry background.</li>
     <li>I completed my schooling in <a href="https://www.youtube.com/watch?v=f-OH4BYqgXU">Sri Chaitanya Children's Academy</a> , Mdanapalle in the year 2015.</li>
   </ul>
-
   </p>
   <hr />
   <h3>Work Experience</h3>
@@ -94,5 +91,4 @@
   <br />
   <a href="contact.html">Contact Me</a>
 </body>
-
 </html> 
