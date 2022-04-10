@@ -9,7 +9,7 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="C:\Users\Vinaya Rekha\OneDrive - B.N.M. Institute of Technology\Desktop\Web development\images\avr.jpeg" alt="Random image"></td>
+      <td><img src="avr.jpeg" alt="Random image"></td>
       <td>
         <h1> Vinaya Rekha</h1>
         <p><em> Works in <strong><a href="https://www.accenture.com/in-en"> Accenture</a></strong> as ASE</em> </p>
